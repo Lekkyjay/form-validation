@@ -2,11 +2,7 @@ import './App.css';
 import Form from './Form';
 
 function App() {
-  return (
-    <div className="App">
-      <Form />
-    </div>
-  );
+  return <Form />
 }
 
 export default App;
